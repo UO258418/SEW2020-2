@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+<!DOCTYPE rutas SYSTEM "../Tarea-2/rutas.dtd">
+
+<rutas>
+    <ruta>
+        <nombre>L'Alt Empordà</nombre>
+        <tipo>Paisajística y turística</tipo>
+        <dificultad>Fácil</dificultad>
+        <fechaInicio>10-5-2021</fechaInicio>
+        <duracion>5 días</duracion>
+        <agencia>Sin agencia</agencia>
+        <descripcion>
+            En esta ruta visitaremos varios pueblos y ciudades de Girona, concretamente de la región 
+            L'Alt Empordà donde visitaremos playas, sendas e incluso lugares turístico
+        </descripcion>
+        <personasAdecuadas>Todos los públicos</personasAdecuadas>
+        <lugarInicio>Cadaqués</lugarInicio>
+        <direccionInicio>Port Lligat, 17488 Cadaqués, Girona</direccionInicio>
+        <coordenadas>
+            <longitud>42.293110</longitud>
+            <latitud>3.285946</latitud>
+            <altitud>11</altitud>
+        </coordenadas>
+        <referencias>
+            <referencia>https://www.lasprovincias.es/planes/viajes/rutas-espectaculares-viajar-20180809154054-nt.html?ref=https:%2F%2Fwww.google.com%2F</referencia>
+        </referencias>
+        <recomendacion>9</recomendacion>
+        <hitos>
+            <hito>
+                <nombre>Casa-Museo de Dalí</nombre>
+                <descripcion>Antigua vivienda de Salvador Dalí convertida en un museo</descripcion>
+                <coordenadas>
+                    <longitud>42.293110</longitud>
+                    <latitud>3.285946</latitud>
+                    <altitud>11</altitud>
+                </coordenadas>
+                <distancia um="km">0</distancia>
+                <fotos>
+                    <foto>res/casa-museo.jpg</foto>
+                </fotos>
+            </hito>
+
+            <hito>
+                <nombre>Far Cabo de Creus</nombre>
+                <descripcion>Faro con un paisaje que se alza entre calas y montañas</descripcion>
+                <coordenadas>
+                    <longitud>42.318854</longitud>
+                    <latitud>3.315969</latitud>
+                    <altitud>77</altitud>
+                </coordenadas>
+                <distancia um="km">6.7</distancia>
+                <fotos>
+                    <foto>res/far-creus.jpg</foto>
+                </fotos>
+            </hito>
+
+            <hito>
+                <nombre>Roses</nombre>
+                <descripcion>Zona con espectaculares playas vírgenes</descripcion>
+                <coordenadas>
+                    <longitud>42.263293</longitud>
+                    <latitud>3.174892</latitud>
+                    <altitud>2</altitud>
+                </coordenadas>
+                <distancia um="km">25.9</distancia>
+                <fotos>
+                    <foto>res/roses1.jpg</foto>
+                    <foto>res/roses2.jpg</foto>
+                </fotos>
+            </hito>
+
+            <hito>
+                <nombre>Empuriabrava</nombre>
+                <descripcion>La venecia catalana, población llena de canales</descripcion>
+                <coordenadas>
+                    <longitud>42.245290</longitud>
+                    <latitud>3.126386</latitud>
+                    <altitud>2</altitud>
+                </coordenadas>
+                <distancia um="km">9.4</distancia>
+                <fotos>
+                    <foto>res/empuriabrava.jpg</foto>
+                </fotos>
+            </hito>
+
+            <hito>
+                <nombre>Teatro-Museo Dalí</nombre>
+                <descripcion>Teatro-Museo en honor a Salvador Dalí en Figueres</descripcion>
+                <coordenadas>
+                    <longitud>42.267870</longitud>
+                    <latitud>2.959760</latitud>
+                    <altitud>43</altitud>
+                </coordenadas>
+                <distancia um="km">16.8</distancia>
+                <fotos>
+                    <foto>res/teatro-museo.jpg</foto>
+                </fotos>
+            </hito>
+
+            <hito>
+                <nombre>Pueblo de Perelada</nombre>
+                <descripcion>Ciudad de calles medievales</descripcion>
+                <coordenadas>
+                    <longitud>42.306432</longitud>
+                    <latitud>3.008679</latitud>
+                    <altitud>32</altitud>
+                </coordenadas>
+                <distancia um="km">7.8</distancia>
+                <fotos>
+                    <foto>res/perelada.jpg</foto>
+                </fotos>
+            </hito>
+        </hitos>
+    </ruta>
+
+    <ruta>
+        <nombre>Ruta por los picos de europa</nombre>
+        <tipo>Paisajística</tipo>
+        <dificultad>Moderada</dificultad>
+        <fechaInicio>11-6-2021</fechaInicio>
+        <horaInicio>9:00</horaInicio>
+        <duracion></duracion>
+        <agencia>Sin agencia</agencia>
+        <descripcion>Ruta para admirar los paisajes de los Picos de Europa</descripcion>
+        <personasAdecuadas>Todos los públicos</personasAdecuadas>
+        <lugarInicio>Oseja de Sajambre</lugarInicio>
+        <direccionInicio>24916 Oseja de Sajambre, León</direccionInicio>
+        <coordenadas>
+            <longitud>43.137109</longitud>
+            <latitud>-5.038436</latitud>
+            <altitud>753</altitud>
+        </coordenadas>
+        <referencias>
+            <referencia>https://www.lasprovincias.es/planes/viajes/rutas-espectaculares-viajar-20180809154054-nt.html?ref=https:%2F%2Fwww.google.com%2F</referencia>
+        </referencias>
+        <recomendacion>7</recomendacion>
+        <hitos>
+            <hito>
+                <nombre>Oseja de Sajambre</nombre>
+                <descripcion>Pueblo sumergido entre las montañas de macizo de Cornión</descripcion>
+                <coordenadas>
+                    <longitud>43.137109</longitud>
+                    <latitud>-5.038436</latitud>
+                    <altitud>753</altitud>
+                </coordenadas>
+                <distancia um="km">0</distancia>
+                <fotos>
+                    <foto>res/oseja.jpg</foto>
+                </fotos>
+            </hito>
+
+            <hito>
+                <nombre>Oseja de Sajambre</nombre>
+                <descripcion>Pueblo sumergido entre las montañas de macizo de Cornión</descripcion>
+                <coordenadas>
+                    <longitud>43.137109</longitud>
+                    <latitud>-5.038436</latitud>
+                    <altitud>753</altitud>
+                </coordenadas>
+                <distancia um="km">0</distancia>
+                <fotos>
+                    <foto>res/oseja.jpg</foto>
+                </fotos>
+            </hito>
+        </hitos>
+    </ruta>
+
+    <ruta>
+        <nombre></nombre>
+        <tipo></tipo>
+        <dificultad></dificultad>
+        <fechaInicio></fechaInicio>
+        <horaInicio></horaInicio>
+        <duracion></duracion>
+        <agencia></agencia>
+        <descripcion></descripcion>
+        <personasAdecuadas></personasAdecuadas>
+        <lugarInicio></lugarInicio>
+        <direccionInicio></direccionInicio>
+        <coordenadas>
+            <longitud></longitud>
+            <latitud></latitud>
+            <altitud></altitud>
+        </coordenadas>
+        <referencias>
+            <referencia></referencia>
+        </referencias>
+        <recomendacion></recomendacion>
+        <hitos>
+            <hito>
+                <nombre></nombre>
+                <descripcion></descripcion>
+                <coordenadas>
+                    <longitud></longitud>
+                    <latitud></latitud>
+                    <altitud></altitud>
+                </coordenadas>
+                <distancia></distancia>
+                <fotos>
+                    <foto></foto>
+                </fotos>
+                <videos>
+                    <video></video>
+                </videos>
+            </hito>
+        </hitos>
+    </ruta>
+</rutas>
